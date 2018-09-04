@@ -1,0 +1,15 @@
+.bc-player-rkxvkpH8M_default .vjs-big-play-button {
+    background-color: #70cbf4;
+    border-radius: 0;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    background-image: url(https://content.tui.co.uk/adamtui/2018_9/3_13/392fb055-7c0f-4548-b7b6-a95000e2d4b3/OPTI_play-white.svg);
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+  }
+  .vjs-icon-play:before, .video-js .vjs-big-play-button:before, .video-js .vjs-play-control:before {
+  	content: " ";
+  }
