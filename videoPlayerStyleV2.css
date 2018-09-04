@@ -10,9 +10,9 @@
     background-position: center;
     cursor: pointer;
     top: auto;
-    bottom: 0;
     left: auto;
-    right: 320px;
+    bottom: 0;
+    right: 260px;
 }
 .bc-player-rkxvkpH8M_default .vjs-big-play-button:hover {
     background-color: #58c2f2;
