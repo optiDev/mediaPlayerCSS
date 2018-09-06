@@ -17,11 +17,12 @@
   	content: " ";
 }
 
-@media only screen and (max-width: 758px) {
+@media only screen and (max-width: 759px) {
     .bc-player-rkxvkpH8M_default .vjs-big-play-button {
         width: 48px;
         height: 48px;
         line-height: 48px;
         background-size: 24px;
+        transform: translate(50%, 50%);
     }
 }
