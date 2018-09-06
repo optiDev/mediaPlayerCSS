@@ -13,6 +13,15 @@
 .bc-player-rkxvkpH8M_default .vjs-big-play-button:hover {
     background-color: #58c2f2;
 }
-  .vjs-icon-play:before, .video-js .vjs-big-play-button:before, .video-js .vjs-play-control:before {
+.vjs-icon-play:before, .video-js .vjs-big-play-button:before, .video-js .vjs-play-control:before {
   	content: " ";
-  }
+}
+
+@media only screen and (max-width: 758px) {
+    .bc-player-rkxvkpH8M_default .vjs-big-play-button {
+        width: 48px;
+        height: 48px;
+        line-height: 48px;
+        background-size: 24px;
+    }
+}
